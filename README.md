@@ -14,10 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Justt-Abhayyy/Leet_Code-submissions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Justt-Abhayyy/Leet_Code-submissions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Justt-Abhayyy/Leet_Code-submissions/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Justt-Abhayyy/Leet_Code-submissions/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Justt-Abhayyy/Leet_Code-submissions/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/Justt-Abhayyy/Leet_Code-submissions/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
