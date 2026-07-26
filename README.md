@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Justt-Abhayyy/Leet_Code-submissions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Justt-Abhayyy/Leet_Code-submissions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Justt-Abhayyy/Leet_Code-submissions/tree/master/0283-move-zeroes) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Justt-Abhayyy/Leet_Code-submissions/tree/master/0628-maximum-product-of-three-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Justt-Abhayyy/Leet_Code-submissions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Justt-Abhayyy/Leet_Code-submissions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Justt-Abhayyy/Leet_Code-submissions/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Justt-Abhayyy/Leet_Code-submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/Justt-Abhayyy/Leet_Code-submissions/tree/master/3536-maximum-product-of-two-digits) |
 ## Dynamic Programming
 |  |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Justt-Abhayyy/Leet_Code-submissions/tree/master/0002-add-two-numbers) |
 | [0268-missing-number](https://github.com/Justt-Abhayyy/Leet_Code-submissions/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Justt-Abhayyy/Leet_Code-submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/Justt-Abhayyy/Leet_Code-submissions/tree/master/3536-maximum-product-of-two-digits) |
 ## Binary Search
 |  |
