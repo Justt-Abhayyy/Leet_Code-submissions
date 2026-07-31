@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Justt-Abhayyy/Leet_Code-submissions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Justt-Abhayyy/Leet_Code-submissions/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Justt-Abhayyy/Leet_Code-submissions/tree/master/0628-maximum-product-of-three-numbers) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Justt-Abhayyy/Leet_Code-submissions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Justt-Abhayyy/Leet_Code-submissions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Justt-Abhayyy/Leet_Code-submissions/tree/master/3536-maximum-product-of-two-digits) |
 ## Dynamic Programming
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Justt-Abhayyy/Leet_Code-submissions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Justt-Abhayyy/Leet_Code-submissions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Justt-Abhayyy/Leet_Code-submissions/tree/master/0268-missing-number) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Justt-Abhayyy/Leet_Code-submissions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Justt-Abhayyy/Leet_Code-submissions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Divide and Conquer
 |  |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Justt-Abhayyy/Leet_Code-submissions/tree/master/0169-majority-element) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Justt-Abhayyy/Leet_Code-submissions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Justt-Abhayyy/Leet_Code-submissions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Math
 |  |
@@ -77,10 +80,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Justt-Abhayyy/Leet_Code-submissions/tree/master/0011-container-with-most-water) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Justt-Abhayyy/Leet_Code-submissions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## String
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Justt-Abhayyy/Leet_Code-submissions/tree/master/0014-longest-common-prefix) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Justt-Abhayyy/Leet_Code-submissions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Justt-Abhayyy/Leet_Code-submissions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Justt-Abhayyy/Leet_Code-submissions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Trie
